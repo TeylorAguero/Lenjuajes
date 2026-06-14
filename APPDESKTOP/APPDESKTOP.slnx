@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="APPDESKTOP/APPDESKTOP.csproj" Id="8307615e-f072-41ce-8bc3-fa24f7d891c6" />
+  <Project Path="BLL/BLL.csproj" Id="738057b2-7446-4fe9-97a1-7b65599cffd6" />
+  <Project Path="DLL/DLL.csproj" Id="cf2f0d12-b036-4ff9-af3a-eb3c2a147893" />
+</Solution>

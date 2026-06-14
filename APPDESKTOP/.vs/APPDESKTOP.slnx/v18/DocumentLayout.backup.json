@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|c:\\lenguajes_g1\\proyecto desktop\\appdesktop\\appdesktop\\frmregistrarselogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|solutionrelative:appdesktop\\frmregistrarselogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|c:\\lenguajes_g1\\proyecto desktop\\appdesktop\\appdesktop\\frmregistrarselogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|solutionrelative:appdesktop\\frmregistrarselogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|c:\\lenguajes_g1\\proyecto desktop\\appdesktop\\appdesktop\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|solutionrelative:appdesktop\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|c:\\lenguajes_g1\\proyecto desktop\\appdesktop\\appdesktop\\frmlistusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|solutionrelative:appdesktop\\frmlistusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|c:\\lenguajes_g1\\proyecto desktop\\appdesktop\\appdesktop\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|solutionrelative:appdesktop\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|c:\\lenguajes_g1\\proyecto desktop\\appdesktop\\appdesktop\\frmlistusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|solutionrelative:appdesktop\\frmlistusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|c:\\lenguajes_g1\\proyecto desktop\\appdesktop\\appdesktop\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|solutionrelative:appdesktop\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|c:\\lenguajes_g1\\proyecto desktop\\appdesktop\\appdesktop\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|solutionrelative:appdesktop\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmMain.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\APPDESKTOP\\FrmMain.cs",
+              "RelativeDocumentMoniker": "APPDESKTOP\\FrmMain.cs",
+              "ToolTip": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\APPDESKTOP\\FrmMain.cs [Dise\u00F1o]",
+              "RelativeToolTip": "APPDESKTOP\\FrmMain.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T09:37:03.774Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmListUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\APPDESKTOP\\FrmListUsuarios.cs",
+              "RelativeDocumentMoniker": "APPDESKTOP\\FrmListUsuarios.cs",
+              "ToolTip": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\APPDESKTOP\\FrmListUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "APPDESKTOP\\FrmListUsuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T08:53:12.268Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmListUsuarios.cs",
+              "DocumentMoniker": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\APPDESKTOP\\FrmListUsuarios.cs",
+              "RelativeDocumentMoniker": "APPDESKTOP\\FrmListUsuarios.cs",
+              "ToolTip": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\APPDESKTOP\\FrmListUsuarios.cs",
+              "RelativeToolTip": "APPDESKTOP\\FrmListUsuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGABAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T08:17:22.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\APPDESKTOP\\FrmMain.cs",
+              "RelativeDocumentMoniker": "APPDESKTOP\\FrmMain.cs",
+              "ToolTip": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\APPDESKTOP\\FrmMain.cs",
+              "RelativeToolTip": "APPDESKTOP\\FrmMain.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T07:55:35.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmRegistrarseLogin.cs",
+              "DocumentMoniker": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\APPDESKTOP\\FrmRegistrarseLogin.cs",
+              "RelativeDocumentMoniker": "APPDESKTOP\\FrmRegistrarseLogin.cs",
+              "ToolTip": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\APPDESKTOP\\FrmRegistrarseLogin.cs",
+              "RelativeToolTip": "APPDESKTOP\\FrmRegistrarseLogin.cs",
+              "ViewState": "AgIAAAcBAAAAAAAAAAAuwMwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T07:03:40.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmRegistrarseLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\APPDESKTOP\\FrmRegistrarseLogin.cs",
+              "RelativeDocumentMoniker": "APPDESKTOP\\FrmRegistrarseLogin.cs",
+              "ToolTip": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\APPDESKTOP\\FrmRegistrarseLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "APPDESKTOP\\FrmRegistrarseLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T06:35:04.104Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\APPDESKTOP\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "APPDESKTOP\\FrmLogin.cs",
+              "ToolTip": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\APPDESKTOP\\FrmLogin.cs",
+              "RelativeToolTip": "APPDESKTOP\\FrmLogin.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAIwH8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T05:56:03.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\APPDESKTOP\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "APPDESKTOP\\FrmLogin.cs",
+              "ToolTip": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\APPDESKTOP\\FrmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "APPDESKTOP\\FrmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T05:55:31.9Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

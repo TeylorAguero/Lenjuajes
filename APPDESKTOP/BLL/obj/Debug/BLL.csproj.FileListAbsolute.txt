@@ -1,0 +1,6 @@
+C:\Lenguajes_G1\Proyecto Desktop\APPDESKTOP\BLL\bin\Debug\BLL.dll
+C:\Lenguajes_G1\Proyecto Desktop\APPDESKTOP\BLL\bin\Debug\BLL.pdb
+C:\Lenguajes_G1\Proyecto Desktop\APPDESKTOP\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Lenguajes_G1\Proyecto Desktop\APPDESKTOP\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Lenguajes_G1\Proyecto Desktop\APPDESKTOP\BLL\obj\Debug\BLL.dll
+C:\Lenguajes_G1\Proyecto Desktop\APPDESKTOP\BLL\obj\Debug\BLL.pdb
