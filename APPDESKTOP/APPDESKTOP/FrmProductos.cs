@@ -119,5 +119,57 @@ namespace APPDESKTOP
         {
 
         }
+
+        private async void btnEliminar_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                if (productoServices == null)
+                {
+                    MessageBox.Show("No se recibió el token para eliminar productos.",
+                        "Token no válido", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    return;
+                }
+
+                if (dgvProductos.CurrentRow == null)
+                {
+                    MessageBox.Show("Debe seleccionar un producto para eliminar.",
+                        "Eliminar producto", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    return;
+                }
+
+                Producto productoSeleccionado = dgvProductos.CurrentRow.DataBoundItem as Producto;
+
+                if (productoSeleccionado == null)
+                {
+                    MessageBox.Show("No se pudo obtener el producto seleccionado.",
+                        "Eliminar producto", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    return;
+                }
+
+                DialogResult respuesta = MessageBox.Show(
+                    "¿Seguro que desea eliminar el producto: " + productoSeleccionado.Descripcion + "?",
+                    "Confirmar eliminación",
+                    MessageBoxButtons.YesNo,
+                    MessageBoxIcon.Question
+                );
+
+                if (respuesta == DialogResult.No)
+                {
+                    return;
+                }
+
+                await productoServices.EliminarProducto(productoSeleccionado.Id);
+
+                MessageBox.Show("Producto eliminado correctamente.",
+                    "Eliminar producto", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+                await CargarProductos();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error al eliminar producto: " + ex.Message);
+            }
+        }
     }
 }

@@ -132,6 +132,7 @@
             // 
             // productosToolStripMenuItem
             // 
+            this.productosToolStripMenuItem.Image = global::APPDESKTOP.Properties.Resources._16__Views_;
             this.productosToolStripMenuItem.Name = "productosToolStripMenuItem";
             this.productosToolStripMenuItem.Size = new System.Drawing.Size(180, 26);
             this.productosToolStripMenuItem.Text = "Productos";
