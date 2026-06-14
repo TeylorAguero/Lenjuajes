@@ -18,3 +18,25 @@ C:\Lenguajes_G1\Proyecto Desktop\APPDESKTOP\APPDESKTOP\bin\Debug\Newtonsoft.Json
 C:\Lenguajes_G1\Proyecto Desktop\APPDESKTOP\APPDESKTOP\obj\Debug\APPDESKTOP.FrmRegistrarseLogin.resources
 C:\Lenguajes_G1\Proyecto Desktop\APPDESKTOP\APPDESKTOP\obj\Debug\APPDESKTOP.FrmMain.resources
 C:\Lenguajes_G1\Proyecto Desktop\APPDESKTOP\APPDESKTOP\obj\Debug\APPDESKTOP.FrmListUsuarios.resources
+C:\Users\MSI\OneDrive\Documentos\GitHub\Lenjuajes\APPDESKTOP\APPDESKTOP\bin\Debug\APPDESKTOP.exe.config
+C:\Users\MSI\OneDrive\Documentos\GitHub\Lenjuajes\APPDESKTOP\APPDESKTOP\bin\Debug\APPDESKTOP.exe
+C:\Users\MSI\OneDrive\Documentos\GitHub\Lenjuajes\APPDESKTOP\APPDESKTOP\bin\Debug\APPDESKTOP.pdb
+C:\Users\MSI\OneDrive\Documentos\GitHub\Lenjuajes\APPDESKTOP\APPDESKTOP\bin\Debug\BLL.dll
+C:\Users\MSI\OneDrive\Documentos\GitHub\Lenjuajes\APPDESKTOP\APPDESKTOP\bin\Debug\DLL.dll
+C:\Users\MSI\OneDrive\Documentos\GitHub\Lenjuajes\APPDESKTOP\APPDESKTOP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MSI\OneDrive\Documentos\GitHub\Lenjuajes\APPDESKTOP\APPDESKTOP\bin\Debug\BLL.pdb
+C:\Users\MSI\OneDrive\Documentos\GitHub\Lenjuajes\APPDESKTOP\APPDESKTOP\bin\Debug\DLL.pdb
+C:\Users\MSI\OneDrive\Documentos\GitHub\Lenjuajes\APPDESKTOP\APPDESKTOP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MSI\OneDrive\Documentos\GitHub\Lenjuajes\APPDESKTOP\APPDESKTOP\obj\Debug\APPDESKTOP.csproj.AssemblyReference.cache
+C:\Users\MSI\OneDrive\Documentos\GitHub\Lenjuajes\APPDESKTOP\APPDESKTOP\obj\Debug\APPDESKTOP.FrmCrearProducto.resources
+C:\Users\MSI\OneDrive\Documentos\GitHub\Lenjuajes\APPDESKTOP\APPDESKTOP\obj\Debug\APPDESKTOP.FrmListUsuarios.resources
+C:\Users\MSI\OneDrive\Documentos\GitHub\Lenjuajes\APPDESKTOP\APPDESKTOP\obj\Debug\APPDESKTOP.FrmLogin.resources
+C:\Users\MSI\OneDrive\Documentos\GitHub\Lenjuajes\APPDESKTOP\APPDESKTOP\obj\Debug\APPDESKTOP.FrmMain.resources
+C:\Users\MSI\OneDrive\Documentos\GitHub\Lenjuajes\APPDESKTOP\APPDESKTOP\obj\Debug\APPDESKTOP.FrmProductos.resources
+C:\Users\MSI\OneDrive\Documentos\GitHub\Lenjuajes\APPDESKTOP\APPDESKTOP\obj\Debug\APPDESKTOP.FrmRegistrarseLogin.resources
+C:\Users\MSI\OneDrive\Documentos\GitHub\Lenjuajes\APPDESKTOP\APPDESKTOP\obj\Debug\APPDESKTOP.Properties.Resources.resources
+C:\Users\MSI\OneDrive\Documentos\GitHub\Lenjuajes\APPDESKTOP\APPDESKTOP\obj\Debug\APPDESKTOP.csproj.GenerateResource.cache
+C:\Users\MSI\OneDrive\Documentos\GitHub\Lenjuajes\APPDESKTOP\APPDESKTOP\obj\Debug\APPDESKTOP.csproj.CoreCompileInputs.cache
+C:\Users\MSI\OneDrive\Documentos\GitHub\Lenjuajes\APPDESKTOP\APPDESKTOP\obj\Debug\APPDESKTOP.csproj.Up2Date
+C:\Users\MSI\OneDrive\Documentos\GitHub\Lenjuajes\APPDESKTOP\APPDESKTOP\obj\Debug\APPDESKTOP.exe
+C:\Users\MSI\OneDrive\Documentos\GitHub\Lenjuajes\APPDESKTOP\APPDESKTOP\obj\Debug\APPDESKTOP.pdb

@@ -1,38 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\",
+  "WorkspaceRootPath": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\APPDESKTOP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|c:\\lenguajes_g1\\proyecto desktop\\appdesktop\\appdesktop\\frmregistrarselogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|solutionrelative:appdesktop\\frmregistrarselogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|c:\\users\\msi\\onedrive\\documentos\\github\\lenjuajes\\appdesktop\\appdesktop\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|solutionrelative:appdesktop\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|c:\\lenguajes_g1\\proyecto desktop\\appdesktop\\appdesktop\\frmregistrarselogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|solutionrelative:appdesktop\\frmregistrarselogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|c:\\users\\msi\\onedrive\\documentos\\github\\lenjuajes\\appdesktop\\appdesktop\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|solutionrelative:appdesktop\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|c:\\lenguajes_g1\\proyecto desktop\\appdesktop\\appdesktop\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|solutionrelative:appdesktop\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|c:\\lenguajes_g1\\proyecto desktop\\appdesktop\\appdesktop\\frmlistusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|solutionrelative:appdesktop\\frmlistusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|c:\\lenguajes_g1\\proyecto desktop\\appdesktop\\appdesktop\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|c:\\users\\msi\\onedrive\\documentos\\github\\lenjuajes\\appdesktop\\appdesktop\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|solutionrelative:appdesktop\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|c:\\lenguajes_g1\\proyecto desktop\\appdesktop\\appdesktop\\frmlistusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|solutionrelative:appdesktop\\frmlistusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|c:\\users\\msi\\onedrive\\documentos\\github\\lenjuajes\\appdesktop\\appdesktop\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|solutionrelative:appdesktop\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|c:\\lenguajes_g1\\proyecto desktop\\appdesktop\\appdesktop\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|c:\\users\\msi\\onedrive\\documentos\\github\\lenjuajes\\appdesktop\\appdesktop\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|solutionrelative:appdesktop\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|c:\\users\\msi\\onedrive\\documentos\\github\\lenjuajes\\appdesktop\\appdesktop\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|solutionrelative:appdesktop\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|c:\\lenguajes_g1\\proyecto desktop\\appdesktop\\appdesktop\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|solutionrelative:appdesktop\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|c:\\users\\msi\\onedrive\\documentos\\github\\lenjuajes\\appdesktop\\appdesktop\\frmcrearproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|solutionrelative:appdesktop\\frmcrearproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|c:\\users\\msi\\onedrive\\documentos\\github\\lenjuajes\\appdesktop\\appdesktop\\frmcrearproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|solutionrelative:appdesktop\\frmcrearproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738057B2-7446-4FE9-97A1-7B65599CFFD6}|BLL\\BLL.csproj|c:\\users\\msi\\onedrive\\documentos\\github\\lenjuajes\\appdesktop\\bll\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738057B2-7446-4FE9-97A1-7B65599CFFD6}|BLL\\BLL.csproj|solutionrelative:bll\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2F0D12-B036-4FF9-AF3A-EB3C2A147893}|DLL\\DLL.csproj|c:\\users\\msi\\onedrive\\documentos\\github\\lenjuajes\\appdesktop\\dll\\productoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2F0D12-B036-4FF9-AF3A-EB3C2A147893}|DLL\\DLL.csproj|solutionrelative:dll\\productoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2F0D12-B036-4FF9-AF3A-EB3C2A147893}|DLL\\DLL.csproj|c:\\users\\msi\\onedrive\\documentos\\github\\lenjuajes\\appdesktop\\dll\\apiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2F0D12-B036-4FF9-AF3A-EB3C2A147893}|DLL\\DLL.csproj|solutionrelative:dll\\apiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|c:\\users\\msi\\onedrive\\documentos\\github\\lenjuajes\\appdesktop\\appdesktop\\frmlistusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|solutionrelative:appdesktop\\frmlistusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|c:\\users\\msi\\onedrive\\documentos\\github\\lenjuajes\\appdesktop\\appdesktop\\frmregistrarselogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8307615E-F072-41CE-8BC3-FA24F7D891C6}|APPDESKTOP\\APPDESKTOP.csproj|solutionrelative:appdesktop\\frmregistrarselogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738057B2-7446-4FE9-97A1-7B65599CFFD6}|BLL\\BLL.csproj|c:\\users\\msi\\onedrive\\documentos\\github\\lenjuajes\\appdesktop\\bll\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738057B2-7446-4FE9-97A1-7B65599CFFD6}|BLL\\BLL.csproj|solutionrelative:bll\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,107 +66,215 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 9,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmMain.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\APPDESKTOP\\FrmMain.cs",
-              "RelativeDocumentMoniker": "APPDESKTOP\\FrmMain.cs",
-              "ToolTip": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\APPDESKTOP\\FrmMain.cs [Dise\u00F1o]",
-              "RelativeToolTip": "APPDESKTOP\\FrmMain.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T09:37:03.774Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FrmListUsuarios.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\APPDESKTOP\\FrmListUsuarios.cs",
-              "RelativeDocumentMoniker": "APPDESKTOP\\FrmListUsuarios.cs",
-              "ToolTip": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\APPDESKTOP\\FrmListUsuarios.cs [Dise\u00F1o]",
-              "RelativeToolTip": "APPDESKTOP\\FrmListUsuarios.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T08:53:12.268Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FrmListUsuarios.cs",
-              "DocumentMoniker": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\APPDESKTOP\\FrmListUsuarios.cs",
-              "RelativeDocumentMoniker": "APPDESKTOP\\FrmListUsuarios.cs",
-              "ToolTip": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\APPDESKTOP\\FrmListUsuarios.cs",
-              "RelativeToolTip": "APPDESKTOP\\FrmListUsuarios.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGABAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T08:17:22.534Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "FrmMain.cs",
-              "DocumentMoniker": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\APPDESKTOP\\FrmMain.cs",
-              "RelativeDocumentMoniker": "APPDESKTOP\\FrmMain.cs",
-              "ToolTip": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\APPDESKTOP\\FrmMain.cs",
-              "RelativeToolTip": "APPDESKTOP\\FrmMain.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\APPDESKTOP\\APPDESKTOP\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "APPDESKTOP\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\APPDESKTOP\\APPDESKTOP\\FrmLogin.cs",
+              "RelativeToolTip": "APPDESKTOP\\FrmLogin.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAADwv6oAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T07:55:35.87Z",
+              "WhenOpened": "2026-06-14T22:29:51.983Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FrmRegistrarseLogin.cs",
-              "DocumentMoniker": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\APPDESKTOP\\FrmRegistrarseLogin.cs",
-              "RelativeDocumentMoniker": "APPDESKTOP\\FrmRegistrarseLogin.cs",
-              "ToolTip": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\APPDESKTOP\\FrmRegistrarseLogin.cs",
-              "RelativeToolTip": "APPDESKTOP\\FrmRegistrarseLogin.cs",
-              "ViewState": "AgIAAAcBAAAAAAAAAAAuwMwAAAAAAAAAAAAAAA==",
+              "Title": "FrmProductos.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\APPDESKTOP\\APPDESKTOP\\FrmProductos.cs",
+              "RelativeDocumentMoniker": "APPDESKTOP\\FrmProductos.cs",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\APPDESKTOP\\APPDESKTOP\\FrmProductos.cs",
+              "RelativeToolTip": "APPDESKTOP\\FrmProductos.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAiwHIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T07:03:40.513Z",
+              "WhenOpened": "2026-06-14T21:26:31.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductoServices.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\APPDESKTOP\\DLL\\ProductoServices.cs",
+              "RelativeDocumentMoniker": "DLL\\ProductoServices.cs",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\APPDESKTOP\\DLL\\ProductoServices.cs",
+              "RelativeToolTip": "DLL\\ProductoServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T21:22:38.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\APPDESKTOP\\BLL\\Producto.cs",
+              "RelativeDocumentMoniker": "BLL\\Producto.cs",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\APPDESKTOP\\BLL\\Producto.cs",
+              "RelativeToolTip": "BLL\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T21:21:59.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "APIServices.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\APPDESKTOP\\DLL\\APIServices.cs",
+              "RelativeDocumentMoniker": "DLL\\APIServices.cs",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\APPDESKTOP\\DLL\\APIServices.cs",
+              "RelativeToolTip": "DLL\\APIServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T21:22:08.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\APPDESKTOP\\APPDESKTOP\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "APPDESKTOP\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\APPDESKTOP\\APPDESKTOP\\FrmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "APPDESKTOP\\FrmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T21:27:28.59Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmMain.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\APPDESKTOP\\APPDESKTOP\\FrmMain.cs",
+              "RelativeDocumentMoniker": "APPDESKTOP\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\APPDESKTOP\\APPDESKTOP\\FrmMain.cs [Dise\u00F1o]",
+              "RelativeToolTip": "APPDESKTOP\\FrmMain.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T22:20:06.939Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\APPDESKTOP\\APPDESKTOP\\FrmMain.cs",
+              "RelativeDocumentMoniker": "APPDESKTOP\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\APPDESKTOP\\APPDESKTOP\\FrmMain.cs",
+              "RelativeToolTip": "APPDESKTOP\\FrmMain.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAADgvz4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T21:31:05.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FrmRegistrarseLogin.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\APPDESKTOP\\FrmRegistrarseLogin.cs",
-              "RelativeDocumentMoniker": "APPDESKTOP\\FrmRegistrarseLogin.cs",
-              "ToolTip": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\APPDESKTOP\\FrmRegistrarseLogin.cs [Dise\u00F1o]",
-              "RelativeToolTip": "APPDESKTOP\\FrmRegistrarseLogin.cs [Dise\u00F1o]",
+              "Title": "FrmProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\APPDESKTOP\\APPDESKTOP\\FrmProductos.cs",
+              "RelativeDocumentMoniker": "APPDESKTOP\\FrmProductos.cs",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\APPDESKTOP\\APPDESKTOP\\FrmProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "APPDESKTOP\\FrmProductos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T06:35:04.104Z",
+              "WhenOpened": "2026-06-14T21:21:35.04Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FrmLogin.cs",
-              "DocumentMoniker": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\APPDESKTOP\\FrmLogin.cs",
-              "RelativeDocumentMoniker": "APPDESKTOP\\FrmLogin.cs",
-              "ToolTip": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\APPDESKTOP\\FrmLogin.cs",
-              "RelativeToolTip": "APPDESKTOP\\FrmLogin.cs",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAIwH8AAAAsAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "FrmListUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\APPDESKTOP\\APPDESKTOP\\FrmListUsuarios.cs",
+              "RelativeDocumentMoniker": "APPDESKTOP\\FrmListUsuarios.cs",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\APPDESKTOP\\APPDESKTOP\\FrmListUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "APPDESKTOP\\FrmListUsuarios.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T05:56:03.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-14T21:39:36.434Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "FrmLogin.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\APPDESKTOP\\FrmLogin.cs",
-              "RelativeDocumentMoniker": "APPDESKTOP\\FrmLogin.cs",
-              "ToolTip": "C:\\Lenguajes_G1\\Proyecto Desktop\\APPDESKTOP\\APPDESKTOP\\FrmLogin.cs [Dise\u00F1o]",
-              "RelativeToolTip": "APPDESKTOP\\FrmLogin.cs [Dise\u00F1o]",
+              "Title": "FrmCrearProducto.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\APPDESKTOP\\APPDESKTOP\\FrmCrearProducto.cs",
+              "RelativeDocumentMoniker": "APPDESKTOP\\FrmCrearProducto.cs",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\APPDESKTOP\\APPDESKTOP\\FrmCrearProducto.cs",
+              "RelativeToolTip": "APPDESKTOP\\FrmCrearProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T05:55:31.9Z",
+              "WhenOpened": "2026-06-14T22:04:09.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmCrearProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\APPDESKTOP\\APPDESKTOP\\FrmCrearProducto.cs",
+              "RelativeDocumentMoniker": "APPDESKTOP\\FrmCrearProducto.cs",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\APPDESKTOP\\APPDESKTOP\\FrmCrearProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "APPDESKTOP\\FrmCrearProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T21:50:40.88Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmRegistrarseLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\APPDESKTOP\\APPDESKTOP\\FrmRegistrarseLogin.cs",
+              "RelativeDocumentMoniker": "APPDESKTOP\\FrmRegistrarseLogin.cs",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\APPDESKTOP\\APPDESKTOP\\FrmRegistrarseLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "APPDESKTOP\\FrmRegistrarseLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T21:27:35.372Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\APPDESKTOP\\BLL\\Usuario.cs",
+              "RelativeDocumentMoniker": "BLL\\Usuario.cs",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\APPDESKTOP\\BLL\\Usuario.cs",
+              "RelativeToolTip": "BLL\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T21:17:29.98Z",
+              "EditorCaption": ""
             }
           ]
         }

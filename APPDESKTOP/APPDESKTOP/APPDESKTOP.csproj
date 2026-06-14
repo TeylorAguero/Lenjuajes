@@ -49,6 +49,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FrmCrearProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCrearProducto.Designer.cs">
+      <DependentUpon>FrmCrearProducto.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmListUsuarios.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -67,6 +73,12 @@
     <Compile Include="FrmMain.Designer.cs">
       <DependentUpon>FrmMain.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProductos.Designer.cs">
+      <DependentUpon>FrmProductos.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmRegistrarseLogin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -75,6 +87,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmCrearProducto.resx">
+      <DependentUpon>FrmCrearProducto.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmListUsuarios.resx">
       <DependentUpon>FrmListUsuarios.cs</DependentUpon>
     </EmbeddedResource>
@@ -83,6 +98,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmMain.resx">
       <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProductos.resx">
+      <DependentUpon>FrmProductos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmRegistrarseLogin.resx">
       <DependentUpon>FrmRegistrarseLogin.cs</DependentUpon>

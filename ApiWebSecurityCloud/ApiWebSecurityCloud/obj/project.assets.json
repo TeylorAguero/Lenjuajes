@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net8.0": {
       "Azure.Core/1.38.0": {
@@ -2969,23 +2969,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\deyro\\.nuget\\packages\\": {},
+    "C:\\Users\\MSI\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Lenguajes_G1\\Proyecto Desktop\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\ApiWebSecurityCloud.csproj",
+      "projectUniqueName": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\ApiWebSecurityCloud.csproj",
       "projectName": "ApiWebSecurityCloud",
-      "projectPath": "C:\\Lenguajes_G1\\Proyecto Desktop\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\ApiWebSecurityCloud.csproj",
-      "packagesPath": "C:\\Users\\deyro\\.nuget\\packages\\",
-      "outputPath": "C:\\Lenguajes_G1\\Proyecto Desktop\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\obj\\",
+      "projectPath": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\ApiWebSecurityCloud.csproj",
+      "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\deyro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3014,7 +3014,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "10.0.200"
+      "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -3057,7 +3057,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

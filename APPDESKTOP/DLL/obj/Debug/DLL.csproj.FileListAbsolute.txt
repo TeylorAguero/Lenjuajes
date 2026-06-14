@@ -4,3 +4,14 @@ C:\Lenguajes_G1\Proyecto Desktop\APPDESKTOP\DLL\obj\Debug\DLL.csproj.AssemblyRef
 C:\Lenguajes_G1\Proyecto Desktop\APPDESKTOP\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
 C:\Lenguajes_G1\Proyecto Desktop\APPDESKTOP\DLL\obj\Debug\DLL.dll
 C:\Lenguajes_G1\Proyecto Desktop\APPDESKTOP\DLL\obj\Debug\DLL.pdb
+C:\Users\MSI\OneDrive\Documentos\GitHub\Lenjuajes\APPDESKTOP\DLL\bin\Debug\DLL.dll
+C:\Users\MSI\OneDrive\Documentos\GitHub\Lenjuajes\APPDESKTOP\DLL\bin\Debug\DLL.pdb
+C:\Users\MSI\OneDrive\Documentos\GitHub\Lenjuajes\APPDESKTOP\DLL\bin\Debug\BLL.dll
+C:\Users\MSI\OneDrive\Documentos\GitHub\Lenjuajes\APPDESKTOP\DLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MSI\OneDrive\Documentos\GitHub\Lenjuajes\APPDESKTOP\DLL\bin\Debug\BLL.pdb
+C:\Users\MSI\OneDrive\Documentos\GitHub\Lenjuajes\APPDESKTOP\DLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MSI\OneDrive\Documentos\GitHub\Lenjuajes\APPDESKTOP\DLL\obj\Debug\DLL.csproj.AssemblyReference.cache
+C:\Users\MSI\OneDrive\Documentos\GitHub\Lenjuajes\APPDESKTOP\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\Users\MSI\OneDrive\Documentos\GitHub\Lenjuajes\APPDESKTOP\DLL\obj\Debug\DLL.csproj.Up2Date
+C:\Users\MSI\OneDrive\Documentos\GitHub\Lenjuajes\APPDESKTOP\DLL\obj\Debug\DLL.dll
+C:\Users\MSI\OneDrive\Documentos\GitHub\Lenjuajes\APPDESKTOP\DLL\obj\Debug\DLL.pdb

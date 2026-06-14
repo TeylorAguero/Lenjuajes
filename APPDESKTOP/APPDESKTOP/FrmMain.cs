@@ -47,5 +47,23 @@ namespace APPDESKTOP
                     "Permiso Denegado", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }
+
+        private void productosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (string.IsNullOrWhiteSpace(FrmLogin.token))
+            {
+                MessageBox.Show("No se encontró el token de acceso. Inicie sesión nuevamente.",
+                    "Token no válido", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            FrmProductos frmProductos = new FrmProductos(FrmLogin.token);
+            frmProductos.ShowDialog();
+            frmProductos.Dispose();
+        }
+        private void FrmMain_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
