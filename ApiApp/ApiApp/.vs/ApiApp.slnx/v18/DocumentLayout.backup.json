@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiApp\\ApiApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|ApiApp\\ApiApp.csproj|c:\\users\\admin\\onedrive\\documents\\github\\lenjuajes\\apiapp\\apiapp\\apiapp\\models\\bigfooddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|ApiApp\\ApiApp.csproj|solutionrelative:apiapp\\models\\bigfooddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|ApiApp\\ApiApp.csproj|c:\\users\\admin\\onedrive\\documents\\github\\lenjuajes\\apiapp\\apiapp\\apiapp\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|ApiApp\\ApiApp.csproj|solutionrelative:apiapp\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|ApiApp\\ApiApp.csproj|c:\\users\\admin\\onedrive\\documents\\github\\lenjuajes\\apiapp\\apiapp\\apiapp\\models\\facturarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|ApiApp\\ApiApp.csproj|solutionrelative:apiapp\\models\\facturarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|ApiApp\\ApiApp.csproj|c:\\users\\admin\\onedrive\\documents\\github\\lenjuajes\\apiapp\\apiapp\\apiapp\\models\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|ApiApp\\ApiApp.csproj|solutionrelative:apiapp\\models\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|ApiApp\\ApiApp.csproj|c:\\users\\admin\\onedrive\\documents\\github\\lenjuajes\\apiapp\\apiapp\\apiapp\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|ApiApp\\ApiApp.csproj|solutionrelative:apiapp\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|ApiApp\\ApiApp.csproj|c:\\users\\admin\\onedrive\\documents\\github\\lenjuajes\\apiapp\\apiapp\\apiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|ApiApp\\ApiApp.csproj|solutionrelative:apiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|ApiApp\\ApiApp.csproj|c:\\users\\admin\\onedrive\\documents\\github\\lenjuajes\\apiapp\\apiapp\\apiapp\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|ApiApp\\ApiApp.csproj|solutionrelative:apiapp\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|ApiApp\\ApiApp.csproj|c:\\users\\admin\\onedrive\\documents\\github\\lenjuajes\\apiapp\\apiapp\\apiapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|ApiApp\\ApiApp.csproj|solutionrelative:apiapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|ApiApp\\ApiApp.csproj|c:\\users\\admin\\onedrive\\documents\\github\\lenjuajes\\apiapp\\apiapp\\apiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|ApiApp\\ApiApp.csproj|solutionrelative:apiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|ApiApp\\ApiApp.csproj|c:\\users\\admin\\onedrive\\documents\\github\\lenjuajes\\apiapp\\apiapp\\apiapp\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|ApiApp\\ApiApp.csproj|solutionrelative:apiapp\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|ApiApp\\ApiApp.csproj|c:\\users\\admin\\onedrive\\documents\\github\\lenjuajes\\apiapp\\apiapp\\apiapp\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|ApiApp\\ApiApp.csproj|solutionrelative:apiapp\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FacturaController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiApp\\ApiApp\\ApiApp\\Controllers\\FacturaController.cs",
+              "RelativeDocumentMoniker": "ApiApp\\Controllers\\FacturaController.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiApp\\ApiApp\\ApiApp\\Controllers\\FacturaController.cs*",
+              "RelativeToolTip": "ApiApp\\Controllers\\FacturaController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T00:02:12.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FacturaRequest.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiApp\\ApiApp\\ApiApp\\Models\\FacturaRequest.cs",
+              "RelativeDocumentMoniker": "ApiApp\\Models\\FacturaRequest.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiApp\\ApiApp\\ApiApp\\Models\\FacturaRequest.cs*",
+              "RelativeToolTip": "ApiApp\\Models\\FacturaRequest.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T00:01:19.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetalleFactura.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiApp\\ApiApp\\ApiApp\\Models\\DetalleFactura.cs",
+              "RelativeDocumentMoniker": "ApiApp\\Models\\DetalleFactura.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiApp\\ApiApp\\ApiApp\\Models\\DetalleFactura.cs*",
+              "RelativeToolTip": "ApiApp\\Models\\DetalleFactura.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T23:59:41.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiApp\\ApiApp\\ApiApp\\Models\\Factura.cs",
+              "RelativeDocumentMoniker": "ApiApp\\Models\\Factura.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiApp\\ApiApp\\ApiApp\\Models\\Factura.cs*",
+              "RelativeToolTip": "ApiApp\\Models\\Factura.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvyEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T23:58:54.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiApp\\ApiApp\\ApiApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ApiApp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiApp\\ApiApp\\ApiApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ApiApp\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T20:48:46.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiApp\\ApiApp\\ApiApp\\Program.cs",
+              "RelativeDocumentMoniker": "ApiApp\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiApp\\ApiApp\\ApiApp\\Program.cs",
+              "RelativeToolTip": "ApiApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T20:48:05.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BigFoodDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiApp\\ApiApp\\ApiApp\\Models\\BigFoodDbContext.cs",
+              "RelativeDocumentMoniker": "ApiApp\\Models\\BigFoodDbContext.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiApp\\ApiApp\\ApiApp\\Models\\BigFoodDbContext.cs*",
+              "RelativeToolTip": "ApiApp\\Models\\BigFoodDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T20:45:34.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiApp\\ApiApp\\ApiApp\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "ApiApp\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiApp\\ApiApp\\ApiApp\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "ApiApp\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAAwA0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T20:52:16.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiApp\\ApiApp\\ApiApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiApp\\ApiApp\\ApiApp\\appsettings.json",
+              "RelativeToolTip": "ApiApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-14T20:47:39.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiApp\\ApiApp\\ApiApp\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "ApiApp\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiApp\\ApiApp\\ApiApp\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "ApiApp\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T20:46:25.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiApp\\ApiApp\\ApiApp\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "ApiApp\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiApp\\ApiApp\\ApiApp\\Models\\Producto.cs",
+              "RelativeToolTip": "ApiApp\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T20:44:26.72Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

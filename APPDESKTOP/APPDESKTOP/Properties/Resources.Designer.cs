@@ -103,6 +103,16 @@ namespace APPDESKTOP.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _16__Views_ {
+            get {
+                object obj = ResourceManager.GetObject("16 (Views)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap j0432533 {
             get {
                 object obj = ResourceManager.GetObject("j0432533", resourceCulture);
@@ -126,6 +136,16 @@ namespace APPDESKTOP.Properties {
         internal static System.Drawing.Bitmap j0432605 {
             get {
                 object obj = ResourceManager.GetObject("j0432605", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap j0432633 {
+            get {
+                object obj = ResourceManager.GetObject("j0432633", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
