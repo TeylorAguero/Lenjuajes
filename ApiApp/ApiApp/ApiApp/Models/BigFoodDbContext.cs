@@ -9,5 +9,8 @@ namespace ApiApp.Models
         }
 
         public DbSet<Producto> Productos { get; set; }
+        public DbSet<Factura> Facturas { get; set; }
+
+        public DbSet<DetalleFactura> Det_Facturas { get; set; }
     }
 }

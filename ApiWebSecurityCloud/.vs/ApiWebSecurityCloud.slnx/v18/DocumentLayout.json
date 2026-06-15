@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\",
+  "WorkspaceRootPath": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43753B15-6475-BEFE-AEB0-FEC7890B4DB5}|ApiWebSecurityCloud\\ApiWebSecurityCloud.csproj|c:\\users\\msi\\onedrive\\documentos\\github\\lenjuajes\\apiwebsecuritycloud\\apiwebsecuritycloud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{43753B15-6475-BEFE-AEB0-FEC7890B4DB5}|ApiWebSecurityCloud\\ApiWebSecurityCloud.csproj|c:\\users\\admin\\onedrive\\documents\\github\\lenjuajes\\apiwebsecuritycloud\\apiwebsecuritycloud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{43753B15-6475-BEFE-AEB0-FEC7890B4DB5}|ApiWebSecurityCloud\\ApiWebSecurityCloud.csproj|solutionrelative:apiwebsecuritycloud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43753B15-6475-BEFE-AEB0-FEC7890B4DB5}|ApiWebSecurityCloud\\ApiWebSecurityCloud.csproj|c:\\users\\msi\\onedrive\\documentos\\github\\lenjuajes\\apiwebsecuritycloud\\apiwebsecuritycloud\\controllers\\usercontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43753B15-6475-BEFE-AEB0-FEC7890B4DB5}|ApiWebSecurityCloud\\ApiWebSecurityCloud.csproj|c:\\users\\admin\\onedrive\\documents\\github\\lenjuajes\\apiwebsecuritycloud\\apiwebsecuritycloud\\controllers\\usercontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43753B15-6475-BEFE-AEB0-FEC7890B4DB5}|ApiWebSecurityCloud\\ApiWebSecurityCloud.csproj|solutionrelative:apiwebsecuritycloud\\controllers\\usercontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43753B15-6475-BEFE-AEB0-FEC7890B4DB5}|ApiWebSecurityCloud\\ApiWebSecurityCloud.csproj|c:\\users\\msi\\onedrive\\documentos\\github\\lenjuajes\\apiwebsecuritycloud\\apiwebsecuritycloud\\models\\dbcontextsecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43753B15-6475-BEFE-AEB0-FEC7890B4DB5}|ApiWebSecurityCloud\\ApiWebSecurityCloud.csproj|c:\\users\\admin\\onedrive\\documents\\github\\lenjuajes\\apiwebsecuritycloud\\apiwebsecuritycloud\\models\\dbcontextsecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43753B15-6475-BEFE-AEB0-FEC7890B4DB5}|ApiWebSecurityCloud\\ApiWebSecurityCloud.csproj|solutionrelative:apiwebsecuritycloud\\models\\dbcontextsecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43753B15-6475-BEFE-AEB0-FEC7890B4DB5}|ApiWebSecurityCloud\\ApiWebSecurityCloud.csproj|c:\\users\\msi\\onedrive\\documentos\\github\\lenjuajes\\apiwebsecuritycloud\\apiwebsecuritycloud\\models\\authorizationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43753B15-6475-BEFE-AEB0-FEC7890B4DB5}|ApiWebSecurityCloud\\ApiWebSecurityCloud.csproj|c:\\users\\admin\\onedrive\\documents\\github\\lenjuajes\\apiwebsecuritycloud\\apiwebsecuritycloud\\models\\authorizationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43753B15-6475-BEFE-AEB0-FEC7890B4DB5}|ApiWebSecurityCloud\\ApiWebSecurityCloud.csproj|solutionrelative:apiwebsecuritycloud\\models\\authorizationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43753B15-6475-BEFE-AEB0-FEC7890B4DB5}|ApiWebSecurityCloud\\ApiWebSecurityCloud.csproj|c:\\users\\msi\\onedrive\\documentos\\github\\lenjuajes\\apiwebsecuritycloud\\apiwebsecuritycloud\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43753B15-6475-BEFE-AEB0-FEC7890B4DB5}|ApiWebSecurityCloud\\ApiWebSecurityCloud.csproj|c:\\users\\admin\\onedrive\\documents\\github\\lenjuajes\\apiwebsecuritycloud\\apiwebsecuritycloud\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43753B15-6475-BEFE-AEB0-FEC7890B4DB5}|ApiWebSecurityCloud\\ApiWebSecurityCloud.csproj|solutionrelative:apiwebsecuritycloud\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43753B15-6475-BEFE-AEB0-FEC7890B4DB5}|ApiWebSecurityCloud\\ApiWebSecurityCloud.csproj|c:\\users\\msi\\onedrive\\documentos\\github\\lenjuajes\\apiwebsecuritycloud\\apiwebsecuritycloud\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43753B15-6475-BEFE-AEB0-FEC7890B4DB5}|ApiWebSecurityCloud\\ApiWebSecurityCloud.csproj|c:\\users\\admin\\onedrive\\documents\\github\\lenjuajes\\apiwebsecuritycloud\\apiwebsecuritycloud\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43753B15-6475-BEFE-AEB0-FEC7890B4DB5}|ApiWebSecurityCloud\\ApiWebSecurityCloud.csproj|solutionrelative:apiwebsecuritycloud\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43753B15-6475-BEFE-AEB0-FEC7890B4DB5}|ApiWebSecurityCloud\\ApiWebSecurityCloud.csproj|c:\\users\\msi\\onedrive\\documentos\\github\\lenjuajes\\apiwebsecuritycloud\\apiwebsecuritycloud\\services\\authorizationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43753B15-6475-BEFE-AEB0-FEC7890B4DB5}|ApiWebSecurityCloud\\ApiWebSecurityCloud.csproj|c:\\users\\admin\\onedrive\\documents\\github\\lenjuajes\\apiwebsecuritycloud\\apiwebsecuritycloud\\services\\authorizationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43753B15-6475-BEFE-AEB0-FEC7890B4DB5}|ApiWebSecurityCloud\\ApiWebSecurityCloud.csproj|solutionrelative:apiwebsecuritycloud\\services\\authorizationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43753B15-6475-BEFE-AEB0-FEC7890B4DB5}|ApiWebSecurityCloud\\ApiWebSecurityCloud.csproj|c:\\users\\msi\\onedrive\\documentos\\github\\lenjuajes\\apiwebsecuritycloud\\apiwebsecuritycloud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43753B15-6475-BEFE-AEB0-FEC7890B4DB5}|ApiWebSecurityCloud\\ApiWebSecurityCloud.csproj|c:\\users\\admin\\onedrive\\documents\\github\\lenjuajes\\apiwebsecuritycloud\\apiwebsecuritycloud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43753B15-6475-BEFE-AEB0-FEC7890B4DB5}|ApiWebSecurityCloud\\ApiWebSecurityCloud.csproj|solutionrelative:apiwebsecuritycloud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43753B15-6475-BEFE-AEB0-FEC7890B4DB5}|ApiWebSecurityCloud\\ApiWebSecurityCloud.csproj|c:\\users\\msi\\onedrive\\documentos\\github\\lenjuajes\\apiwebsecuritycloud\\apiwebsecuritycloud\\services\\iauthorizationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43753B15-6475-BEFE-AEB0-FEC7890B4DB5}|ApiWebSecurityCloud\\ApiWebSecurityCloud.csproj|c:\\users\\admin\\onedrive\\documents\\github\\lenjuajes\\apiwebsecuritycloud\\apiwebsecuritycloud\\services\\iauthorizationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43753B15-6475-BEFE-AEB0-FEC7890B4DB5}|ApiWebSecurityCloud\\ApiWebSecurityCloud.csproj|solutionrelative:apiwebsecuritycloud\\services\\iauthorizationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,59 +46,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserController .cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\Controllers\\UserController .cs",
-              "RelativeDocumentMoniker": "ApiWebSecurityCloud\\Controllers\\UserController .cs",
-              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\Controllers\\UserController .cs",
-              "RelativeToolTip": "ApiWebSecurityCloud\\Controllers\\UserController .cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAowFAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T03:26:20.002Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "DbContextSecurity.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\Models\\DbContextSecurity.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\Models\\DbContextSecurity.cs",
               "RelativeDocumentMoniker": "ApiWebSecurityCloud\\Models\\DbContextSecurity.cs",
-              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\Models\\DbContextSecurity.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\Models\\DbContextSecurity.cs",
               "RelativeToolTip": "ApiWebSecurityCloud\\Models\\DbContextSecurity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -108,9 +64,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "AuthorizationResponse.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\Models\\AuthorizationResponse.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\Models\\AuthorizationResponse.cs",
               "RelativeDocumentMoniker": "ApiWebSecurityCloud\\Models\\AuthorizationResponse.cs",
-              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\Models\\AuthorizationResponse.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\Models\\AuthorizationResponse.cs",
               "RelativeToolTip": "ApiWebSecurityCloud\\Models\\AuthorizationResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -120,9 +76,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\Models\\Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "ApiWebSecurityCloud\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\Models\\Usuario.cs",
               "RelativeToolTip": "ApiWebSecurityCloud\\Models\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -132,9 +88,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "LoginRequest.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\Models\\LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\Models\\LoginRequest.cs",
               "RelativeDocumentMoniker": "ApiWebSecurityCloud\\Models\\LoginRequest.cs",
-              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\Models\\LoginRequest.cs",
               "RelativeToolTip": "ApiWebSecurityCloud\\Models\\LoginRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -144,9 +100,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "AuthorizationServices.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\Services\\AuthorizationServices.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\Services\\AuthorizationServices.cs",
               "RelativeDocumentMoniker": "ApiWebSecurityCloud\\Services\\AuthorizationServices.cs",
-              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\Services\\AuthorizationServices.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\Services\\AuthorizationServices.cs",
               "RelativeToolTip": "ApiWebSecurityCloud\\Services\\AuthorizationServices.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAgwDoAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -156,9 +112,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\appsettings.json",
               "RelativeDocumentMoniker": "ApiWebSecurityCloud\\appsettings.json",
-              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\appsettings.json",
               "RelativeToolTip": "ApiWebSecurityCloud\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -167,11 +123,23 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController .cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\Controllers\\UserController .cs",
+              "RelativeDocumentMoniker": "ApiWebSecurityCloud\\Controllers\\UserController .cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\Controllers\\UserController .cs",
+              "RelativeToolTip": "ApiWebSecurityCloud\\Controllers\\UserController .cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAowFAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T03:26:20.002Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\Program.cs",
               "RelativeDocumentMoniker": "ApiWebSecurityCloud\\Program.cs",
-              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\Program.cs",
               "RelativeToolTip": "ApiWebSecurityCloud\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -181,9 +149,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "IAuthorizationServices.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\Services\\IAuthorizationServices.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\Services\\IAuthorizationServices.cs",
               "RelativeDocumentMoniker": "ApiWebSecurityCloud\\Services\\IAuthorizationServices.cs",
-              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documentos\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\Services\\IAuthorizationServices.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Documents\\GitHub\\Lenjuajes\\ApiWebSecurityCloud\\ApiWebSecurityCloud\\Services\\IAuthorizationServices.cs",
               "RelativeToolTip": "ApiWebSecurityCloud\\Services\\IAuthorizationServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

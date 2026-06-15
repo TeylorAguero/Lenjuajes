@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiWebSecurityCloud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c69d7b5c31f00926835764ca784f6e7662c263cd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ceebf8366ca5b75544e41b8067bffc163ca0cc0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiWebSecurityCloud")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiWebSecurityCloud")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
